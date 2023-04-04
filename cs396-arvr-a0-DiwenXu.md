@@ -19,10 +19,11 @@
  
 ### Describe the visual style of your page
  
- -- comfortable, clean, and orgainzed --
+ -- Comfortable, clean, and orgainzed --
  
  
 ### Your link (if not in the normal Glitch format)
  
- -- your answer here --
+ -- https://github.com/Stephen0899/cs396arvr.git --
+ -- p.s. This is a github link, you may need to complie to visualize the web. --
  
