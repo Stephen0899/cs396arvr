@@ -17,8 +17,12 @@ h3{
     text-align: left;
 }
 
-p{
-    /* border: 3px solid papayawhip; */
+.button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6px;
+    margin-bottom: 0px;
 }
 
 div{
@@ -52,28 +56,4 @@ section{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
 }
-
-/* #profilepic{
-    position: relative;
-    margin: 0px auto;
-    text-align: center;
-    width: 300px;
-    background-color: hsla(150, 80%, 60%, 1);
-    transition: all .2s;
-    transform: rotate(0deg);
-}
-
-#profilepic:hover {
-    background-color: hsla(150, 80%, 60%, 1);
-    top: 10px;
-    width: 350px;
-    transition: all .2s;
-    transform: rotate(10deg);
-}
-
-#profilepic img{
-    box-shadow: inset 1px 2px 4px black;
-    border-radius: 300px;
-    border: 10px solid white;
-} */
 
