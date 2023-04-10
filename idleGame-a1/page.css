@@ -1,0 +1,103 @@
+.currency {
+    margin: 4px;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5);
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+:root{
+    --main-bg-color:hsl(35,60%,95%)
+}
+
+#event-log{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: hsla(320, 50%, 80%, 1);
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5);
+    overflow: scroll;
+}
+
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,h4{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.center{
+    padding: 10px;
+    border: 10px solid white;
+    border-radius: 10px;
+    background-color: hsla(200, 50%, 80%, 1);
+    box-shadow: 1px 2px 4px black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gen{
+    padding: 10px;
+    border: 10px solid white;
+    border-radius: 10px;
+    background-color: hsla(200, 50%, 80%, 1);
+    box-shadow: 1px 2px 4px black;
+    margin-left: auto;
+    margin-right: auto;
+}
+#outer
+{
+    width:100%;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.inner1
+{
+    transition-duration: 0.4s;
+    display: inline-block;
+    background-color: white; /* Green */
+    border: 2px solid green;
+    color: green;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.inner1:hover {
+    background-color: green;
+    color: white;
+  }
+
+.inner2
+{
+    transition-duration: 0.4s;
+    display: inline-block;
+    background-color: white;
+    border: 2px solid red;
+    color: red;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.inner2:hover {
+    background-color: red;
+    color: white;
+  }
